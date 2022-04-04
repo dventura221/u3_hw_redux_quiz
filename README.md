@@ -41,7 +41,7 @@ Actions
 6. How do we access state from Redux?
 
 ```
-Map State to Props, the Map Action to Props, then connect component to Redux, to finally access the Store.
+Map State to Props, then Map Action to Props, then connect component to Redux, to finally access state/Store.
 ```
 
 7. In your own words, describe how to set up Redux for a React App.
